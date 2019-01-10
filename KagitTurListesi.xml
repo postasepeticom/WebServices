@@ -1,0 +1,14 @@
+<KagitTurListesi>
+  <KagitTur>
+    <KagitTurId>1</KagitTurId>
+    <KagitTurAd>Normal</KagitTurAd>
+  </KagitTur>
+  <KagitTur>
+    <KagitTurId>2</KagitTurId>
+    <KagitTurAd>Mat Kuşe</KagitTurAd>
+  </KagitTur>
+  <KagitTur>
+    <KagitTurId>3</KagitTurId>
+    <KagitTurAd>Parlak Kuşe</KagitTurAd>
+  </KagitTur>
+</KagitTurListesi>

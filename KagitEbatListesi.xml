@@ -1,0 +1,26 @@
+<KagitEbatListesi>
+  <KagitEbat>
+    <KagitEbatId>1</KagitEbatId>
+    <KagitEbatAd>A3</KagitEbatAd>
+  </KagitEbat>
+  <KagitEbat>
+    <KagitEbatId>2</KagitEbatId>
+    <KagitEbatAd>A4</KagitEbatAd>
+  </KagitEbat>
+  <KagitEbat>
+    <KagitEbatId>3</KagitEbatId>
+    <KagitEbatAd>A5</KagitEbatAd>
+  </KagitEbat>
+  <KagitEbat>
+    <KagitEbatId>4</KagitEbatId>
+    <KagitEbatAd>10X21</KagitEbatAd>
+  </KagitEbat>
+  <KagitEbat>
+    <KagitEbatId>5</KagitEbatId>
+    <KagitEbatAd>17X24</KagitEbatAd>
+  </KagitEbat>
+  <KagitEbat>
+    <KagitEbatId>6</KagitEbatId>
+    <KagitEbatAd>33X24</KagitEbatAd>
+  </KagitEbat>
+</KagitEbatListesi>

@@ -1,0 +1,10 @@
+<KagitYonlendirmeListesi>
+  <KagitYonlendirme>
+    <KagitYonlendirmeId>1</KagitYonlendirmeId>
+    <KagitYonlendirmeAd>Dikey</KagitYonlendirmeAd>
+  </KagitYonlendirme>
+  <KagitYonlendirme>
+    <KagitYonlendirmeId>2</KagitYonlendirmeId>
+    <KagitYonlendirmeAd>Yatay</KagitYonlendirmeAd>
+  </KagitYonlendirme>
+</KagitYonlendirmeListesi>
