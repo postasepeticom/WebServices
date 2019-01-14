@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PostaSepeti>
+  <Credential>
+    <UserName>demo</UserName>
+    <Password>demo</Password>
+  </Credential>
+  <PostaAciklama><![CDATA[Örnek Posta Açıklaması]]></PostaAciklama>
+  <GonderimTarih></GonderimTarih>
+  <Alicilar>
+    <Alici>
+      <KurumAdUnvan>Kurum Ünvanı</KurumAdUnvan>
+      <Hitap>Sayın</Hitap>
+      <AdSoyad>Ali Örnek</AdSoyad>
+      <AcikAdres><![CDATA[Çankaya Ankara]]></AcikAdres>
+      <SiteBlokDaireNoAd>Örnek Sitsi</SiteBlokDaireNoAd>
+      <SokakAd>Örnek Sokağı</SokakAd>
+      <MahalleAd>Örnek Mahallesi</MahalleAd>
+      <SemtAd>Örnek Semti</SemtAd>
+      <IlceAd>Örnek İlçesi</IlceAd>
+      <IlAd>Örnek İli</IlAd>
+      <UlkeAd>TÜRKİYE</UlkeAd>
+      <PostaKod></PostaKod>
+      <Telefon></Telefon>
+      <Degiskenler>
+        <Degisken>
+          <DegiskenAd>Borç</DegiskenAd>
+          <DegiskenDeger>1000 TL</DegiskenDeger>
+        </Degisken>
+      </Degiskenler>
+    </Alici>
+  </Alicilar>
+  <Tercihler>
+    <GonderiTipId>1</GonderiTipId>
+    <KagitTurId>1</KagitTurId>
+    <KagitEbatId>1</KagitEbatId>
+    <KagitYonlendirmeId>1</KagitYonlendirmeId>
+    <KagitGramId>1</KagitGramId>
+    <Renkli>true</Renkli>
+    <Dublex>false</Dublex>
+    <Penceresiz>false</Penceresiz>
+    <Baskili>false</Baskili>
+    <BaskiliZarfTip></BaskiliZarfTip>
+    <Iadeli>false</Iadeli>
+    <Spiral>false</Spiral>
+    <Delme>false</Delme>
+    <Zimba>false</Zimba>
+    <Ciltleme>false</Ciltleme>
+  </Tercihler>
+  <Icerik>
+    <Html><![CDATA[Örnek Posta İçeriği]]></Html>
+    <Sablon>
+      <Id></Id>
+      <Ad></Ad>
+      <kagitEbatId></kagitEbatId>
+      <dosya></dosya>
+      <yerlesimId></yerlesimId>
+      <yerlesimAd></yerlesimAd>
+      <kucultmeId></kucultmeId>
+      <kucultmeAd></kucultmeAd>
+      <sagBosluk></sagBosluk>
+      <solBosluk></solBosluk>
+      <ustBosluk></ustBosluk>
+      <altBosluk></altBosluk>
+    </Sablon>
+  </Icerik>
+  <ZarfBaski></ZarfBaski>
+</PostaSepeti>
