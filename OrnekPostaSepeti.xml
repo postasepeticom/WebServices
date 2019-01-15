@@ -32,9 +32,9 @@
   <Tercihler>
     <GonderiTipId>1</GonderiTipId>
     <KagitTurId>1</KagitTurId>
-    <KagitEbatId>1</KagitEbatId>
+    <KagitEbatId>2</KagitEbatId>
     <KagitYonlendirmeId>1</KagitYonlendirmeId>
-    <KagitGramId>1</KagitGramId>
+    <KagitGramId>3</KagitGramId>
     <Renkli>true</Renkli>
     <Dublex>false</Dublex>
     <Penceresiz>false</Penceresiz>
